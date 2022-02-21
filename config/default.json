@@ -1,0 +1,9 @@
+{
+  "Auth": {
+    "secret": "supersecret",
+    "tokenExp": 259200
+  },
+  "DB": {
+    "path": "./sqlite/crown_store.db"
+  }
+}
